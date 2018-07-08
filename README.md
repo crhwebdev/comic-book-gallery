@@ -1,1 +1,1 @@
-# comic-book-gallery
+This project was built for the Treehouse Course: ASP.NET MVC Basics.
